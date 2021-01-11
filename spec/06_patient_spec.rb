@@ -1,4 +1,5 @@
 require 'spec_helper'
+require "pry"
 
 describe 'Patient' do
   describe '#new' do
